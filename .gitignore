@@ -1,6 +1,7 @@
 .ropeproject
 .idea
 venv
+db.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
